@@ -1,0 +1,7 @@
+{
+    "title" : "Update Your App",
+    "message" : "New features are waiting for you.",
+    "versionCode" : 1,
+    "force" : true,
+    "dl" : "http://www(dot)blaha/a.apk"
+}
